@@ -15,8 +15,10 @@
 
 ![img](https://i.postimg.cc/ZKVZ0031/Untitled-design.png)
 ![img](https://i.postimg.cc/x16KsGmt/Untitled-design-1.png)
-![img](https://i.postimg.cc/QtT1xRyy/Untitled-design-2.png)
-![img](https://i.postimg.cc/wT34cBnK/Untitled-design-3.png)
+
+![Screenshot (343)](https://github.com/user-attachments/assets/5069e0b0-11c6-4bd6-b81b-48cca6e6b725)
+![Screenshot (344)](https://github.com/user-attachments/assets/3b513207-d1b9-4e99-a08d-c436e30fbacc)
+
 
 ## Follow the steps below to set up and install the project dependencies.
 
